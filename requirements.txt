@@ -1,0 +1,8 @@
+pandas
+numpy
+ta
+SmartApi
+cufflinks
+plotly
+matplotlib
+seaborn
